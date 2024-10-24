@@ -1,10 +1,10 @@
 
-function App() {
- 
-
+const App = () => {
   return (
-    <div className="flex">
-      Hamza
+    <div >
+        <h1 className='text-3xl font-bold underline text-red-500'>
+            hello world
+        </h1>
     </div>
   )
 }
